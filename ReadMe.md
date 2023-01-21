@@ -1,4 +1,4 @@
-# **sharedBirthdays: ** 
+# **sharedBirthdays:**  
 
 
 The birthday problem is a question where most people's intuition is proved incorrect by mathematics. The problem is: Given a group of N people, how large must N be so that there is a 50% chance that at least 2 of the N people have the same birthday?
